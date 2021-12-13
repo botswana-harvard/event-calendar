@@ -1,0 +1,5 @@
+include AUTHORS CHANGES README.md LICENCE
+recursive-include calendarapp/templates *
+recursive-include eventcalendar/templates *
+recursive-include event-calendar/templates *
+recursive-include base/templates *
